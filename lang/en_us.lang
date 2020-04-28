@@ -72,23 +72,23 @@ tile.basic_table_block.name=Basic Oakwood Table
 tile.hailey_cake.name=Hailey's Chocolate Cherry Cake!
 
 //Logs
-tile.log_cherry.name=CherryWood Log
-tile.log_test.name=Test Log
+tile.cherry_log.name=CherryWood Log
+tile.test_log.name=Test Log
 
 
 //Leaves
-tile.leaves_cherry.name=CherryTree Leaves
-tile.leaves_test.name=TestTree Leaves
+tile.cherry_leaves.name=CherryTree Leaves
+tile.test_leaves.name=TestTree Leaves
 
 
 //Planks
-tile.planks_cherry.name=CherryWood Planks
-tile.planks_test.name=Test Planks
+tile.cherry_planks.name=CherryWood Planks
+tile.test_planks.name=Test Planks
 
 
 //Saplings
-tile.sapling_cherry.name=CherryWood Sapling
-tile.sapling_test.name=Test Sapling
+tile.cherry_sapling.name=CherryWood Sapling
+tile.test_sapling.name=Test Sapling
 
 
 
