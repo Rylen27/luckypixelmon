@@ -37,7 +37,7 @@ public class Main {
 	{
 		ModRecipes.init();
 		OreDictionaryInit.registerOres();
-		RegistryHandler.initRegistries();
+		RegistryHandler.initRegistries(event);
 	}
 	
 	@EventHandler
