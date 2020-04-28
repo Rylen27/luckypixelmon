@@ -1,0 +1,97 @@
+//Ingots
+item.aluminum_ingot.name=Aluminum Ingot
+item.haileys_ingot.name=Hailey's Ingot
+item.abigails_ingot.name=Skyrite Ingot
+item.emilys_ingot.name=Emily's Ingot
+item.deathsteel_ingot.name=DeathSteel Ingot
+
+//Pixelmon Items
+item.fusion_gema.name=Fusion GemX
+item.fusion_gemb.name=Fusion GemY
+item.mega_fusion_gem.name=Mega Fusion Gem
+
+//Tools and Tool Parts
+
+item.haileys_sword_blade.name=Blade to Hailey's Sword
+item.haileys_sword_hilt.name=Hilt to Hailey's Sword
+item.haileys_sword_handle.name=Handle to Hailey's Sword
+item.emilys_axe_blade.name=Blade to Emily's Axe
+item.emilys_axe_head.name=Head of Emily's Axe
+item.emilys_axe_handle.name=Handle to Emily's Axe
+item.abigails_arrow_head.name=Abigail's Arrowhead
+item.abigails_arrow_shaft.name=Abigail's Arrow Shaft
+item.abigails_bow_limb.name=Abigail's Bow Limb
+item.abigails_bow_grip.name=Abigail's Bow Grip
+item.abigails_bow_string.name=Abigail's Bow String
+item.sor_sword_blade.name=Blade to S.O.R.
+item.sor_sword_hilt.name=Hilt to S.O.R.
+item.sor_sword_handle.name=Handle to S.O.R.
+item.deaths_eye.name=Eye of Death
+
+
+//Food and Food related items
+
+item.dragonfruit.name=Dragonfruit
+item.milk_bottle.name=Bottle of Milk
+item.apple_juice_bottle.name=Bottle of Apple Juice
+item.cherries.name=Cherries
+item.bottle_glass.name=Glass Bottle
+item.cocoa_powder.name=Cocoa Powder
+
+//Weapons
+
+item.haileys_sword.name=Hailey's Sword
+item.emilys_axe.name=Emily's Axe
+item.abigails_bow.name=Abby's Bow
+item.abigails_arrow.name=Abby's Arrow
+item.sor_sword.name=Sword of Rylen
+
+//Armor
+item.haileys_helmet.name=Hailey's Helmet
+item.haileys_chestplate.name=Hailey's Chest Armor
+item.haileys_leggings.name=Hailey's Leg Armor
+item.haileys_boots.name=Hailey's Boots
+
+//Horse Armor
+item.horse_armor_haileys.name=Hailey's Horse Armor
+item.horse_armor_deathsteel.name=DeathSteel Horse Armor
+
+//Blocks
+
+tile.aluminum_block.name=Block of Aluminum
+tile.aluminum_ore.name=Aluminum Ore
+tile.haileys_block.name=Hailey's Block
+tile.abigails_block.name=Block of Skyrite
+tile.emilys_block.name=Emily's Peppa Window
+tile.haileys_ore.name=Hailey's Ore
+tile.abigails_ore.name=Skyrite Ore
+tile.emilys_ore.name=Emily's Ore
+tile.deathsteel_block.name=Block of DeathSteel
+tile.deathsteel_ore.name=DeathSteel Ore
+tile.basic_table_block.name=Basic Oakwood Table
+tile.hailey_cake.name=Hailey's Chocolate Cherry Cake!
+
+//Logs
+tile.log_cherry.name=CherryWood Log
+tile.log_test.name=Test Log
+
+
+//Leaves
+tile.leaves_cherry.name=CherryTree Leaves
+tile.leaves_test.name=TestTree Leaves
+
+
+//Planks
+tile.planks_cherry.name=CherryWood Planks
+tile.planks_test.name=Test Planks
+
+
+//Saplings
+tile.sapling_cherry.name=CherryWood Sapling
+tile.sapling_test.name=Test Sapling
+
+
+
+//Entities
+
+entity.abigails_arrow.name=Abby's Arrow

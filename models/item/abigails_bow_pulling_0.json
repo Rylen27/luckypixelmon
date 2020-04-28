@@ -1,0 +1,7 @@
+{
+    "parent": "item/bow",
+    "textures": 
+    {
+        "layer0": "luckypixelmon:items/abigails_bow_pulling_0"
+    }
+}

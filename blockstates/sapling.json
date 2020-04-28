@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "stage=0,variant=cherry": { "model": "luckypixelmon:sapling_cherry" },
+        "stage=1,variant=cherry": { "model": "luckypixelmon:sapling_cherry"},
+                       
+        "stage=0,variant=test": { "model": "luckypixelmon:sapling_test"},
+        "stage=1,variant=test": { "model": "luckypixelmon:sapling_test"}
+             
+    }
+}

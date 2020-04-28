@@ -1,0 +1,15 @@
+{
+    "variants":
+    {      
+        "check_decay=true,decayable=true,variant=cherry": { "model": "luckypixelmon:leaves_cherry"},
+        "check_decay=true,decayable=false,variant=cherry": { "model": "luckypixelmon:leaves_cherry"},
+        "check_decay=false,decayable=true,variant=cherry": { "model": "luckypixelmon:leaves_cherry"},
+        "check_decay=false,decayable=false,variant=cherry": { "model": "luckypixelmon:leaves_cherry"},
+        
+        "check_decay=true,decayable=true,variant=test": { "model": "luckypixelmon:leaves_test"},
+        "check_decay=true,decayable=false,variant=test": { "model": "luckypixelmon:leaves_test"},
+        "check_decay=false,decayable=true,variant=test": { "model": "luckypixelmon:leaves_test"},
+        "check_decay=false,decayable=false,variant=test": { "model": "luckypixelmon:leaves_test"}
+        
+    }
+}

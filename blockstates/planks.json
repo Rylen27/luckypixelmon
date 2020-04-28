@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=cherry": { "model": "luckypixelmon:planks_cherry" },
+        "variant=test": { "model": "luckypixelmon:planks_test"}
+        
+    }
+}

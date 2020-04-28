@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y,variant=cherry": { "model": "luckypixelmon:log_cherry" },
+        "axis=x,variant=cherry": { "model": "luckypixelmon:log_cherry", "x": 90 },                
+        "axis=z,variant=cherry": { "model": "luckypixelmon:log_cherry", "x": 90, "y": 90 },                
+        "axis=none,variant=cherry": { "model": "luckypixelmon:log_cherry" },
+                       
+        "axis=y,variant=test": { "model": "luckypixelmon:log_test"},
+        "axis=x,variant=test": { "model": "luckypixelmon:log_test", "x": 90 },
+        "axis=z,variant=test": { "model": "luckypixelmon:log_test", "x": 90, "y": 90 },
+        "axis=none,variant=test": { "model": "luckypixelmon:log_test"}
+        
+        
+        
+        
+        
+    }
+}

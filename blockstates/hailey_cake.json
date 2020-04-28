@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "bites=0": { "model": "luckypixelmon:hailey_cake_uneaten" },
+        "bites=1": { "model": "luckypixelmon:hailey_cake_slice1" },
+        "bites=2": { "model": "luckypixelmon:hailey_cake_slice2" },
+        "bites=3": { "model": "luckypixelmon:hailey_cake_slice3" },
+        "bites=4": { "model": "luckypixelmon:hailey_cake_slice4" },
+        "bites=5": { "model": "luckypixelmon:hailey_cake_slice5" }
+    }
+}
