@@ -1,0 +1,10 @@
+{
+    "variants":
+    {              
+        "check_decay=true,decayable=true": { "model": "luckypixelmon:leaves_test"},
+        "check_decay=true,decayable=false": { "model": "luckypixelmon:leaves_test"},
+        "check_decay=false,decayable=true": { "model": "luckypixelmon:leaves_test"},
+        "check_decay=false,decayable=false": { "model": "luckypixelmon:leaves_test"}
+        
+    }
+}

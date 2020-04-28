@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "axis=y": { "model": "luckypixelmon:cherry_log" },
+        "axis=x": { "model": "luckypixelmon:cherry_log", "x": 90 },                
+        "axis=z": { "model": "luckypixelmon:cherry_log", "x": 90, "y": 90 },                
+        "axis=none": { "model": "luckypixelmon:cherry_log" }
+    }
+}
