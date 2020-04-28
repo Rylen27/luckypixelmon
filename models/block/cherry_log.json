@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "luckypixelmon:blocks/cherry_log_top",
+        "side": "luckypixelmon:blocks/cherry_log"
+    }
+}
